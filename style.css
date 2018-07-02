@@ -1,0 +1,24 @@
+/*Element Style*/
+
+
+/*body Style*/
+
+body {
+    margin: 0 0 0 0;
+    background: linear-gradient(lightyellow, yellow);
+}
+
+
+/*Header element Style*/
+
+#styleHeader {
+    width: 140px;
+    height: 70px;
+    border: 1px;
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    margin: 10px;
+}
